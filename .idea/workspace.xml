@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0706a73-7bfc-4b49-9ea3-d62423f1773f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/CheckPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaStringTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/TagContentExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/UserValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/tag-content-extractor-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/valid-username-checker-English.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercises/META-INF/Exercises.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/Anagram.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +27,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1X2QGJDA8Ise4MCLXGWQzRNZw8u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -50,20 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckPrime">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.Anagram" />
-      <module name="Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PowerOfTwo">
     <configuration name="CheckPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.CheckPrime" />
       <module name="Exercises" />
@@ -77,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaStringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.JavaStringReverse" />
+    <configuration name="JavaStringTokens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.JavaStringTokens" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaSubstringComparisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.JavaSubstringComparisons" />
+    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.PowerOfTwo" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +96,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputFormating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.OutputFormating" />
+    <configuration name="TagContentExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.TagContentExtractor" />
+      <module name="Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exercises.hackerrack.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.UserValidator" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowerOfTwo" />
+        <item itemvalue="Application.TagContentExtractor" />
+        <item itemvalue="Application.UserValidator" />
+        <item itemvalue="Application.JavaStringTokens" />
         <item itemvalue="Application.CheckPrime" />
-        <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.OutputFormating" />
-        <item itemvalue="Application.JavaStringReverse" />
-        <item itemvalue="Application.JavaSubstringComparisons" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +144,7 @@
       <updated>1580241613136</updated>
       <workItem from="1580241619005" duration="2769000" />
       <workItem from="1580304165779" duration="18930000" />
-      <workItem from="1580335700791" duration="1544000" />
+      <workItem from="1580335700791" duration="10719000" />
     </task>
     <servers />
   </component>
@@ -155,5 +161,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
