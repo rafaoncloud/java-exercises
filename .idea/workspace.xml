@@ -2,13 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0706a73-7bfc-4b49-9ea3-d62423f1773f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaStringTokens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/TagContentExtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/tag-content-extractor-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/valid-username-checker-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/chainedclasses/can-you-access-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/factory/JavaFactoryPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/factory/java-factory-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/singleton/JavaSingletonPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/singleton/java-singleton-English.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/CheckPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/DoNotTerminate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/DoNotTerminate$ExitTrappedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/DoNotTerminate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/EndOfFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/IntToStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/JavaCurrencyFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/JavaDateTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/JavaLoop1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/JavaLoop2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/JavaStdinStdout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/JavaStdinStdoutTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/JavaStringReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/JavaStringTokens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/JavaSubstringComparisons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/MyRegex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/OutputFormating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/PatternSyntaxChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/PowerOfTwo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/PowerOfTwo$Inner$Private.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/PowerOfTwo$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/PowerOfTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/RegexDuplicateWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/RegexIP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/StaticInitializerBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/SubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/TagContentExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/UserValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/UsernameValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/duplicate-word-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/java-anagrams-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/java-currency-formatter-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/java-datatypes-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/java-date-and-time-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/java-loops2-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/java-regex-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/java-string-compare-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/java-string-reverse-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/java-substring-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/pattern-syntax-checker-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/prime-checker-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/tag-content-extractor-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/valid-username-checker-English.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/anagram/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/CheckPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/isprime/CheckPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datatypes/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/EndOfFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/eof/EndOfFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/ifelse/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/IntToStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/cast/IntToStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaCurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/currencyformatter/JavaCurrencyFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datetime/JavaDateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaLoop1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/javaloop/JavaLoop1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaLoop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/javaloop/JavaLoop2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaStdinStdout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/stdinstdout/JavaStdinStdout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaStdinStdoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/stdinstdout/JavaStdinStdoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaStringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/strings/JavaStringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaStringTokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/JavaStringTokens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/JavaSubstringComparisons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/substring/JavaSubstringComparisons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/OutputFormating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/stdinstdout/OutputFormating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/PatternSyntaxChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/PatternSyntaxChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/staticblock/PowerOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/RegexDuplicateWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/RegexDuplicateWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/RegexIP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/RegexIP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/StaticInitializerBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/staticblock/StaticInitializerBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/substring/SubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/TagContentExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/TagContentExtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/UserValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/UserValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/duplicate-word-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/duplicate-word-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/java-anagrams-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/anagram/java-anagrams-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/java-currency-formatter-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/currencyformatter/java-currency-formatter-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/java-datatypes-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datatypes/java-datatypes-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/java-date-and-time-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datetime/java-date-and-time-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/java-loops2-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/javaloop/java-loops2-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/java-regex-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/java-regex-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/java-string-compare-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/substring/java-string-compare-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/java-string-reverse-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/strings/java-string-reverse-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/java-substring-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/substring/java-substring-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/pattern-syntax-checker-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/pattern-syntax-checker-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/prime-checker-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/isprime/prime-checker-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/tag-content-extractor-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/tag-content-extractor-English.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/valid-username-checker-English.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex/valid-username-checker-English.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +125,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/chainedclasses" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/strings" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/substring" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/currencyformatter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,13 +144,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PowerOfTwo">
-    <configuration name="CheckPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.CheckPrime" />
+  <component name="RunManager" selected="Application.JavaSingletonPattern">
+    <configuration name="JavaFactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.factory.JavaFactoryPattern" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaStringTokens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.JavaStringTokens" />
+    <configuration name="JavaSingletonPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.singleton.JavaSingletonPattern" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +172,11 @@
       </method>
     </configuration>
     <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.PowerOfTwo" />
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.staticblock.PowerOfTwo" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.anagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +185,11 @@
       </method>
     </configuration>
     <configuration name="TagContentExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.TagContentExtractor" />
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.regex.TagContentExtractor" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.anagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +198,11 @@
       </method>
     </configuration>
     <configuration name="UserValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.UserValidator" />
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.regex.UserValidator" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.anagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaSingletonPattern" />
+        <item itemvalue="Application.JavaFactoryPattern" />
         <item itemvalue="Application.PowerOfTwo" />
         <item itemvalue="Application.TagContentExtractor" />
         <item itemvalue="Application.UserValidator" />
-        <item itemvalue="Application.JavaStringTokens" />
-        <item itemvalue="Application.CheckPrime" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +232,7 @@
       <updated>1580241613136</updated>
       <workItem from="1580241619005" duration="2769000" />
       <workItem from="1580304165779" duration="18930000" />
-      <workItem from="1580335700791" duration="10719000" />
+      <workItem from="1580335700791" duration="13538000" />
     </task>
     <servers />
   </component>
