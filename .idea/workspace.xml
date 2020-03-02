@@ -2,58 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0706a73-7bfc-4b49-9ea3-d62423f1773f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/adapter/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/adapter/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/adapter/MediaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/adapter/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/adapter/adapter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/adapter/players/AdvancedMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/adapter/players/Mp4Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/adapter/players/VlcPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/factory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/factory/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/factory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/factory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/factory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/factory/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/factory/factory.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/mediator/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/mediator/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/mediator/mediator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/nullobject/AbstractCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/nullobject/CustomerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/nullobject/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/nullobject/NullCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/nullobject/RealCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/nullobject/null-object.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/observer/BinaryObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/observer/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/observer/HexaObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/observer/OctalObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/observer/observer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor/behavior/ComputerPartDisplayVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor/behavior/ComputerPartVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor/structure/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor/structure/ComputerPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor/structure/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor/structure/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor/structure/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor/visitor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/isprime/isProbablePrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/isprime/java-primality-test-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/lambdaexpressions/KieURb-java-lambda-expressions-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/lambdaexpressions/LambdaExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/md5/JavaMD5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/md5/java-md5-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sha256/JavaSHA256.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sha256/sha-256-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/visitorpattern/JavaVisitorPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/stringManipulations/IncrementChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/Array1d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/Array2d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/java-1d-array-introduction-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/java-2d-array-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/JavaHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/JavaList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/JavaMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/arraylist-testcase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/hashset-testcase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/java-arraylist-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/java-list-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/list-testcase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/map-testcase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/phone-book-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datastructures/JavaStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datastructures/java-stack-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datastructures/stack-testcase.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/md5/JavaMD5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/md5/JavaMD5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sha256/JavaSHA256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sha256/JavaSHA256.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,11 +57,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datastructures" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays" />
       <recent name="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor" />
       <recent name="$PROJECT_DIR$/src/com/exercises/designPatterns/nullobject" />
-      <recent name="$PROJECT_DIR$/src/com/exercises/designPatterns/observer" />
-      <recent name="$PROJECT_DIR$/src/com/exercises/designPatterns/factory" />
-      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/regex" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -106,13 +76,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaMD5">
-    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.designPatterns.adapter.Demo" />
+  <component name="RunManager" selected="Application.JavaStack">
+    <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.arrays.Arraylist" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.designPatterns.adapter.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.stringManipulations.IncrementChar" />
+    <configuration name="JavaList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.collections.JavaList" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.stringManipulations.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaMD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.md5.JavaMD5" />
+    <configuration name="JavaMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.collections.JavaMap" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.md5.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.lambdaexpressions.LambdaExpression" />
+    <configuration name="JavaStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.datastructures.JavaStack" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.lambdaexpressions.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.datastructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isProbablePrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.isprime.isProbablePrime" />
+    <configuration name="Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.arrays.Subarray" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.isprime.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaMD5" />
-        <item itemvalue="Application.LambdaExpression" />
-        <item itemvalue="Application.isProbablePrime" />
-        <item itemvalue="Application.IncrementChar" />
-        <item itemvalue="Application.Demo (4)" />
+        <item itemvalue="Application.JavaStack" />
+        <item itemvalue="Application.JavaMap" />
+        <item itemvalue="Application.JavaList" />
+        <item itemvalue="Application.Arraylist" />
+        <item itemvalue="Application.Subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +164,9 @@
       <updated>1580241613136</updated>
       <workItem from="1580241619005" duration="2769000" />
       <workItem from="1580304165779" duration="18930000" />
-      <workItem from="1580335700791" duration="28961000" />
+      <workItem from="1580335700791" duration="28962000" />
+      <workItem from="1580768897733" duration="1035000" />
+      <workItem from="1583004812866" duration="14331000" />
     </task>
     <servers />
   </component>
@@ -206,7 +178,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -214,5 +188,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/Array2d.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
