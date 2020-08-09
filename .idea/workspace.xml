@@ -2,28 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0706a73-7bfc-4b49-9ea3-d62423f1773f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/Array1d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/Array2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/Subarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/java-1d-array-introduction-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/java-2d-array-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/JavaHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/JavaList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/JavaMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/arraylist-testcase.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/hashset-testcase.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/java-arraylist-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/java-list-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/list-testcase.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/map-testcase.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections/phone-book-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datastructures/JavaStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datastructures/java-stack-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datastructures/stack-testcase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/bigvalues/BigDecimalSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/bigvalues/BigInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/bigvalues/java-bigdecimal-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/bitset/BitSetSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/bitset/bitset-testcase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/bitset/java-bitset-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/comparator/JavaComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/comparator/comparator-testcase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/comparator/java-comparator-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/dequeue/DequeueSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/dequeue/dequeue-testcase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/dequeue/java-dequeue-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/instancekeyword/InstanceKeywordSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/instancekeyword/instanceof-testcase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/priorityqueue/PriorityQueueSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/priorityqueue/java-priority-queue-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/priorityqueue/priorityqueue-testcase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sort/SortSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sort/java-sort-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sort/sort-testcase.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/md5/JavaMD5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/md5/JavaMD5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sha256/JavaSHA256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sha256/JavaSHA256.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/datastructures/JavaStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/com/exercises/hackerrack/java/datastructures/JavaStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sha256/JavaSHA256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sha256/SHA256Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,15 +54,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/datastructures" />
-      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/collections" />
-      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays" />
-      <recent name="$PROJECT_DIR$/src/com/exercises/designPatterns/visitor" />
-      <recent name="$PROJECT_DIR$/src/com/exercises/designPatterns/nullobject" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/priorityqueue" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/bitset" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/dequeue" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/sort" />
+      <recent name="$PROJECT_DIR$/src/com/exercises/hackerrack/java/bigvalues" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -76,13 +80,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaStack">
-    <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.arrays.Arraylist" />
+  <component name="RunManager" selected="Application.InstanceKeywordSolution">
+    <configuration name="BitSetSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.bitset.BitSetSolution" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.arrays.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.bitset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.collections.JavaList" />
+    <configuration name="DequeueSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.dequeue.DequeueSolution" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.collections.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.dequeue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.collections.JavaMap" />
+    <configuration name="InstanceKeywordSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.instancekeyword.InstanceKeywordSolution" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.collections.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.instancekeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.datastructures.JavaStack" />
+    <configuration name="PriorityQueueSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.priorityqueue.PriorityQueueSolution" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.datastructures.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.priorityqueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.arrays.Subarray" />
+    <configuration name="SortSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.hackerrack.java.sort.SortSolution" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercises.hackerrack.java.arrays.*" />
+          <option name="PATTERN" value="com.exercises.hackerrack.java.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaStack" />
-        <item itemvalue="Application.JavaMap" />
-        <item itemvalue="Application.JavaList" />
-        <item itemvalue="Application.Arraylist" />
-        <item itemvalue="Application.Subarray" />
+        <item itemvalue="Application.InstanceKeywordSolution" />
+        <item itemvalue="Application.PriorityQueueSolution" />
+        <item itemvalue="Application.BitSetSolution" />
+        <item itemvalue="Application.DequeueSolution" />
+        <item itemvalue="Application.SortSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +171,12 @@
       <workItem from="1580335700791" duration="28962000" />
       <workItem from="1580768897733" duration="1035000" />
       <workItem from="1583004812866" duration="14331000" />
+      <workItem from="1594847678785" duration="1025000" />
+      <workItem from="1595180556225" duration="2116000" />
+      <workItem from="1595779616300" duration="6700000" />
+      <workItem from="1595888707867" duration="4094000" />
+      <workItem from="1596646938932" duration="7000" />
+      <workItem from="1596737654848" duration="16806000" />
     </task>
     <servers />
   </component>
@@ -191,13 +201,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/exercises/hackerrack/java/arrays/Array2d.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
